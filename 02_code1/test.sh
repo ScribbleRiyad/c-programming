@@ -9,8 +9,7 @@ if [ "$?" = "0" ]
     then
     echo "Your code appears to have legal syntax!"
     echo "Here is what I get when I run it..."
-    echo "-----------------"
-    ./code1
+    echo "-----------------"1
     echo "-----------------"
     echo "Here is what I would expect the answers to be:"
     echo "----------------"
@@ -31,4 +30,3 @@ EOF
     echo "Here is my best attempt to describe what is wrong:"
     echo "$mesg" | cut -f5 -d":"
     fi
-rm -f temp.c errors.txt code1
