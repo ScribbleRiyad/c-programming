@@ -1,9 +1,8 @@
-Grading at Sat Apr 18 00:40:17 UTC 2020
+Grading at Sat Apr 18 00:42:24 UTC 2020
 #################################################
 test input.1:
-Line_1_did_not_match
-Your file did not match the expected ouput
-input.1 failed, your output did not match with the answer
+Your file matched the expected output
+input.1 passed
 #################################################
 test input.2:
 Your file matched the expected output
@@ -17,4 +16,4 @@ test input.4:
 Your file matched the expected output
 input.4 passed
 
-Overall Grade: B
+Overall Grade: A
